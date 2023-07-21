@@ -52,16 +52,16 @@ export const about = {
 }
 
 export const work = {
-	title: "My skills",
+	title: "My Technical Skills",
 	cards: [
 		{
 			title: "DSA - problem solving",
-			description: "",
+			description: "Problem solving using various Data Structures and Algorithms using C++ programming language. Competitive Programming enthusiast",
 			icons: null,
 		},
 		{
 			title: "iOS Development",
-			description: "I create iOS applications using Swift, SwiftUI, UIKit & XCode.",
+			description: "I create iOS applications using Swift, SwiftUI, UIKit & XCode. Native iOS, ipadOS, macOS, watchOS applications can be built using these technologies.",
 			icons: null,
 		},
 		{
